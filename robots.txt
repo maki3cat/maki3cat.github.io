@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://maki.github.io/sitemap.xml
