@@ -1,0 +1,3 @@
+
+prettier:
+	@npx prettier . --write
