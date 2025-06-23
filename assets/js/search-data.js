@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "cv",
-          description: "here is the CV of a good backend engineer :)",
+          description: "I am a good backend engineer :)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
