@@ -43,11 +43,18 @@
     {
       "name": "Language",
       "keywords": [
-        "Go (at ByteDance/Airwallex; for Raft/Temporal related projects;",
-        "Kotlin (at Airwallex, for server-side)",
+        "Go (at ByteDance/Airwallex/Open-source projects)",
+        "Kotlin (at Airwallex)",
         "Java (at Alibaba)",
         "Python (at Alibaba)",
-        "C/C++ (only for school projects)"
+        "C/C++ (only for school labs/honwork)"
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "System designs",
+        "Testing designs for for complex infra-projects"
       ]
     },
     {
