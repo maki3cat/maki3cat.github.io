@@ -1,27 +1,40 @@
 {
   "basics": {
     "name": "Maki, Feiyang Xie",
-    "label": "Backend Software Engineer",
+    "label": "Backend Software Engineer", 
     "image": "",
     "email": "makixie1@outlook.com",
     "phone": "",
-    "url": "https://github.com/maki3cat",
-    "summary": "Backend Software Engineer; ex-Airwallex, ex-ByteDance;",
-    "location": {
-      "address": "The Ohio State University",
-      "postalCode": "OH 43211",
-      "city": "Columbus",
-      "countryCode": "US",
-      "region": "Ohio"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "feiyang-xie",
-        "url": "https://www.linkedin.com/feed/"
-      }
-    ]
+    "url": "https://github.com/maki3cat"
   },
+  "skills": [
+    {
+      "name": "Language",
+      "keywords": [
+        "Go (at ByteDance/Airwallex; for Raft/Temporal related projects;",
+        "Kotlin (at Airwallex, for server-side)",
+        "Java (at Alibaba)",
+        "Python (at Alibaba)",
+        "C/C++ (only for school projects)"
+      ]
+    },
+    {
+      "name": "Infrastructure", 
+      "keywords": [
+        "Temporal",
+        "MySQL/PostgreSQL",
+        "Raft/Etcd",
+        "Redis",
+        "Kafka",
+        "Kubernetes/Istio/Helm/ArgoCD",
+        "Prometheus/Grafana"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["GitHub/GitLab", "Vim/Cursor", "Jira/Confluence"]
+    }
+  ],
   "work": [
     {
       "name": "Airwallex",
@@ -87,28 +100,6 @@
       "studyType": "Bachelor of Economics"
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Language",
-      "keywords": [
-        "Go",
-        "Python",
-        "Kotlin/Java"
-      ]
-    },
-    {
-      "name": "Infrastructure",
-      "keywords": [
-        "Temporal",
-        "MySQL/PostgreSQL",
-        "Raft/Etcd",
-        "Redis",
-        "Kafka",
-        "Kubernetes/Helm/ArgoCD",
-        "Git"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Chinese",
@@ -125,10 +116,7 @@
     {
       "name": "mkRaft",
       "summary": "a self-implemented Raft implementation in Go",
-      "highlights": [
-        "Almost-industry-level",
-        "Educational purpose"
-      ],
+      "highlights": ["Almost-industry-level", "Educational purpose"],
       "startDate": "2023-04-10",
       "endDate": "Present",
       "url": "https://github.com/maki3cat/mkRaft"
