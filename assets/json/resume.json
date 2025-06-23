@@ -3,10 +3,45 @@
     "name": "Maki, Feiyang Xie",
     "label": "Backend Software Engineer",
     "image": "",
-    "email": "makixie1@outlook.com",
+    "email": "makixie1@outlook.com", 
     "phone": "",
     "url": "https://github.com/maki3cat"
   },
+  "skills": [
+    {
+      "name": "Language",
+      "keywords": [
+        "Go (at ByteDance/Airwallex/Open-source projects)",
+        "Kotlin (at Airwallex)",
+        "Java (at Alibaba)",
+        "Python (at Alibaba)",
+        "C/C++ (only for school labs/honwork)"
+      ]
+    },
+    {
+      "name": "Design",
+      "keywords": [
+        "System designs",
+        "Testing designs for for complex infra-projects"
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "keywords": [
+        "Temporal",
+        "MySQL/PostgreSQL",
+        "Raft/Etcd",
+        "Redis",
+        "Kafka",
+        "Kubernetes/Istio/Helm/ArgoCD",
+        "Prometheus/Grafana"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["GitHub/GitLab", "Vim/Cursor", "Jira/Confluence"]
+    }
+  ],
   "education": [
     {
       "institution": "The Ohio State University",
@@ -41,53 +76,11 @@
       "studyType": "Bachelor of Economics"
     }
   ],
-  "skills": [
-    {
-      "name": "Language",
-      "keywords": [
-        "Go (at ByteDance/Airwallex/Open-source projects)",
-        "Kotlin (at Airwallex)",
-        "Java (at Alibaba)",
-        "Python (at Alibaba)",
-        "C/C++ (only for school labs/honwork)"
-      ]
-    },
-    {
-      "name": "Design",
-      "keywords": [
-        "System designs",
-        "Testing designs for for complex infra-projects"
-      ]
-    },
-    {
-      "name": "Infrastructure",
-      "keywords": [
-        "Temporal",
-        "MySQL/PostgreSQL",
-        "Raft/Etcd",
-        "Redis",
-        "Kafka",
-        "Kubernetes/Istio/Helm/ArgoCD",
-        "Prometheus/Grafana"
-      ]
-    },
-    {
-      "name": "Tools",
-      "keywords": [
-        "GitHub/GitLab",
-        "Vim/Cursor",
-        "Jira/Confluence"
-      ]
-    }
-  ],
   "open-source-projects": [
     {
       "name": "mkRaft",
       "summary": "a self-implemented Raft implementation in Go",
-      "highlights": [
-        "Almost-industry-level",
-        "Educational purpose"
-      ],
+      "highlights": ["Almost-industry-level", "Educational purpose"],
       "startDate": "2023-04-10",
       "endDate": "Present",
       "url": "https://github.com/maki3cat/mkRaft"
