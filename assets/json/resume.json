@@ -1,12 +1,44 @@
 {
   "basics": {
     "name": "Maki, Feiyang Xie",
-    "label": "Backend Software Engineer", 
+    "label": "Backend Software Engineer",
     "image": "",
     "email": "makixie1@outlook.com",
     "phone": "",
     "url": "https://github.com/maki3cat"
   },
+  "education": [
+    {
+      "institution": "The Ohio State University",
+      "location": "Columbus OH, US",
+      "url": "https://www.osu.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Computer Science and Engineering",
+      "courses": [
+        "Datastructures and Algorithms",
+        "Advanced Algorithms",
+        "Operating System",
+        "Advanced OS/Distributed Systems",
+        "Introduction to Computer Architecture",
+        "Advanced Computer Architecture (GPU, etc)",
+        "Parallel Computing",
+        "Foundations of Programming Languages",
+        "Database",
+        "Machine Learning"
+      ],
+      "highlights": [
+        "GPT 4.0/4.0",
+        "Full scores for midterms and finals for Distributed Systems, Advanced Algorithms"
+      ]
+    },
+    {
+      "institution": "Sun Yat-sen University",
+      "location": "Guangzhou, China",
+      "url": "https://www.sysu.edu.cn/",
+      "area": "Economics",
+      "studyType": "Bachelor of Economics"
+    }
+  ],
   "skills": [
     {
       "name": "Language",
@@ -19,7 +51,7 @@
       ]
     },
     {
-      "name": "Infrastructure", 
+      "name": "Infrastructure",
       "keywords": [
         "Temporal",
         "MySQL/PostgreSQL",
@@ -32,7 +64,24 @@
     },
     {
       "name": "Tools",
-      "keywords": ["GitHub/GitLab", "Vim/Cursor", "Jira/Confluence"]
+      "keywords": [
+        "GitHub/GitLab",
+        "Vim/Cursor",
+        "Jira/Confluence"
+      ]
+    }
+  ],
+  "open-source-projects": [
+    {
+      "name": "mkRaft",
+      "summary": "a self-implemented Raft implementation in Go",
+      "highlights": [
+        "Almost-industry-level",
+        "Educational purpose"
+      ],
+      "startDate": "2023-04-10",
+      "endDate": "Present",
+      "url": "https://github.com/maki3cat/mkRaft"
     }
   ],
   "work": [
@@ -68,58 +117,14 @@
       "summary": "Help introduce new international students to Ohio State and the city of Columbus"
     }
   ],
-  "education": [
-    {
-      "institution": "The Ohio State University",
-      "location": "Columbus OH, US",
-      "url": "https://www.osu.edu/",
-      "area": "Computer Science",
-      "studyType": "Master of Computer Science and Engineering",
-      "courses": [
-        "Datastructures and Algorithms",
-        "Advanced Algorithms",
-        "Operating System",
-        "Advanced OS/Distributed Systems",
-        "Introduction to Computer Architecture",
-        "Advanced Computer Architecture (GPU, etc)",
-        "Parallel Computing",
-        "Foundations of Programming Languages",
-        "Database",
-        "Machine Learning"
-      ],
-      "highlights": [
-        "GPT 4.0/4.0",
-        "Full scores for midterms and finals for Distributed Systems, Advanced Algorithms"
-      ]
-    },
-    {
-      "institution": "Sun Yat-sen University",
-      "location": "Guangzhou Guangdong, China",
-      "url": "https://www.sysu.edu.cn/",
-      "area": "Economics",
-      "studyType": "Bachelor of Economics"
-    }
-  ],
   "languages": [
     {
       "language": "Chinese",
       "fluency": "Native speaker",
-      "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "mkRaft",
-      "summary": "a self-implemented Raft implementation in Go",
-      "highlights": ["Almost-industry-level", "Educational purpose"],
-      "startDate": "2023-04-10",
-      "endDate": "Present",
-      "url": "https://github.com/maki3cat/mkRaft"
+      "fluency": "Fluent"
     }
   ]
 }
