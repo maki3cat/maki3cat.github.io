@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -28,7 +28,7 @@ latest_posts:
 
 This is Maki, a very **nice INTJ**.
 
-**Computer science** is a keyword of my life. I work as a backend software engineer. I like computer science; have passion and commitment; and I think it is good luck to combine work with interest. I started as a self-taught developer with a BS in Economics, worked in Airwallex and ByteDance for many years, and then self-funded myself to the United States for a Master's in Computer Science. 
+**Computer science** is a keyword of my life. I work as a backend software engineer. I like computer science; have passion and commitment; and I think it is good luck to combine work with interest. I started as a self-taught developer with a BS in Economics, worked in Airwallex and ByteDance for many years, and then self-funded myself to the United States for a Master's in Computer Science.
 
 Right now, I am trying to focus my career more on **system/infra engineering**, especially for new potentials in the AI-era. And I start with my [open-source](https://github.com/maki3cat) projects while looking for more academic and industry opportunities at the same time.
 
