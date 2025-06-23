@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Maki, Feiyang Xie",
-    "label": "Backend Software Engineer",
+    "label": "Backend Software Engineer", 
     "image": "",
     "email": "makixie1@outlook.com",
     "phone": "",
@@ -18,7 +18,7 @@
         "Datastructures and Algorithms",
         "Advanced Algorithms",
         "Operating System",
-        "Advanced OS/Distributed Systems",
+        "Advanced OS/Distributed Systems", 
         "Introduction to Computer Architecture",
         "Advanced Computer Architecture (GPU, etc)",
         "Parallel Computing",
@@ -33,7 +33,7 @@
     },
     {
       "institution": "Sun Yat-sen University",
-      "location": "Guangzhou, China",
+      "location": "Guangzhou, China", 
       "url": "https://www.sysu.edu.cn/",
       "area": "Economics",
       "studyType": "Bachelor of Economics"
@@ -71,21 +71,14 @@
     },
     {
       "name": "Tools",
-      "keywords": [
-        "GitHub/GitLab",
-        "Vim/Cursor",
-        "Jira/Confluence"
-      ]
+      "keywords": ["GitHub/GitLab", "Vim/Cursor", "Jira/Confluence"]
     }
   ],
   "open-source-projects": [
     {
       "name": "mkRaft",
       "summary": "a self-implemented Raft implementation in Go",
-      "highlights": [
-        "Almost-industry-level",
-        "Educational purpose"
-      ],
+      "highlights": ["Almost-industry-level", "Educational purpose"],
       "startDate": "2023-04-10",
       "endDate": "Present",
       "url": "https://github.com/maki3cat/mkRaft"
