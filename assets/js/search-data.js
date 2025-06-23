@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/blog/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
@@ -391,16 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-resigned-from-airwallex-where-i-really-learned-a-lot-and-had-a-great-time-i-felt-grateful-moved-to-the-us-for-my-master-s-degree-of-computer-science-in-the-ohio-state-university-sparkles-seedling",
+          title: 'Resigned from Airwallex where I really learned a lot, and had a great...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-currently-working-actively-on-implementing-the-raft-protocal-and-a-database-from-scratch-as-my-first-attempt-for-system-engineering",
+          title: 'Currently working actively on implementing the Raft protocal and a database from scratch...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
