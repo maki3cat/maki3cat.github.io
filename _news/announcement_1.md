@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-8
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Resigned from Airwallex where I really learned a lot, and had a great time. I felt grateful. Moved to the US for my master's degree of Computer Science in the Ohio State University.
