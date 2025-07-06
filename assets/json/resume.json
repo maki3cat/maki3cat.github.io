@@ -5,13 +5,13 @@
   "basics": {
     "name": "Feiyang (Maki) XIE",
     "phone": "",
-    "label": "Backend Developer",
+    "label": "Backend Software Engineer",
     "image": "",
-    "summary": "I'm a backend developer with experience in business platforms and system engineering. I have worked in Airwallex, ByteDance, and Alibaba. I am very interested in infra-engineering and is building my implementation of Raft+Storage ",
+    "summary": "",
     "url": "https://maki3cat.github.io",
     "email": "makixie1@outlook.com",
     "location": {
-      "city": "Columbus",
+      "city": "Columbus, OH",
       "countryCode": "US"
     },
     "profiles": [
@@ -34,7 +34,7 @@
       "area": "Computer Science",
       "studyType": "Master of Computer Science and Engineering",
       "startDate": "2024-08-20",
-      "endDate": "2025-04-20",
+      "endDate": "2025-12-20",
       "courses": [
         "Datastructures and Algorithms",
         "Advanced Algorithms",
@@ -48,13 +48,6 @@
         "Machine Learning"
       ],
       "highlights": ["GPT 4.0/4.0", "Full scores for midterms and finals for Distributed Systems, Advanced Algorithms"]
-    },
-    {
-      "institution": "Sun Yat-sen University",
-      "location": "Guangzhou, China",
-      "url": "https://www.sysu.edu.cn/",
-      "area": "Economics",
-      "studyType": "Bachelor of Economics"
     }
   ],
   "skills": [
