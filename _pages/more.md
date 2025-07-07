@@ -11,4 +11,7 @@ children:
   - title: life
     newtab: true
     permalink: /life
+  - title: blog
+    newtab: true
+    permalink: /blog
 ---
