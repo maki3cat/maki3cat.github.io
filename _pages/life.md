@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /life/
-title: maki
+title: life
 description: glimps of maki's life
 nav: false
 nav_order: 6
@@ -11,7 +11,7 @@ I am a self-claimed amateur watercolor artist.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5-watercolorartist.jpg" title="artist" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5art.jpg" title="artist" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -20,7 +20,7 @@ And this is a picture of my first paddling in Bellevue Small Beach Park.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-paddle.jpg" title="paddle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/1paddle.jpg" title="paddle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -28,7 +28,7 @@ I love Cats; and they love me as well.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-cat-lover.jpg" title="catlover" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/3cat.jpg" title="catlover" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -37,7 +37,7 @@ Me on a hiking trail in Kyoto, Japan.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2-hiking-traveling.jpg" title="hiking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/2hiking.jpg" title="hiking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -45,6 +45,6 @@ The Witcher3, Zelda-breathOftheWilderness, Bloodborn/EldenRing are my top-3 favo
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/4-game-player.jpg" title="gaming" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/4game.jpg" title="gaming" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

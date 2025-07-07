@@ -26,12 +26,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-This is Maki, a very **nice INTJ**.
+Hi there, this is Maki.
 
-**Computer science** is a keyword of my life. I work as a backend software engineer. I like computer science; have passion and commitment; and I think it is good luck to combine work with interest. I started as a self-taught developer with a BS in Economics, worked in Airwallex and ByteDance for many years, and then self-funded myself to the United States for a Master's in Computer Science.
+I used to be a E-person, but after years of being a software engineer I some place and some time became a I-person. And recent test shows I am an INTJ. I was ISTP same as Geralt of Rivia last year and that was cool. But I accept radically what I am right now; no self-blames.
 
-Right now, I am trying to focus my career more on **system/infra engineering**, especially for new potentials in the AI-era. And I start with my [open-source](https://github.com/maki3cat) projects while looking for more academic and industry opportunities at the same time.
+**Computer science** is a keyword of life. It pays the bills, has empowered me to build a home and life in Shanghai, and navigates me all the way to the States just to be better at it. Obviously, it means more than a job to me, and I have interest in it. Besides the work stuff, I am also an **animal welfare** supporter. I've started monthly donations years ago; it is hard to find good projects. And I've rescued many stray cats in Shanghai by finding them adopters, and the luckest one stays with my best friend and lives a life probably better than mine. And these are the two beliefs of my life. I hope I can build more value out of my life and for this world in these two pursuits.
 
-I am the first in my family to attend university (top 10 in China), and the first in my extended family to study abroad in the U.S. I am also bringing significantly positive changes to my family. People who know me say I should be proud of myself. Maybe they are correct; still, I hope I can be better than this.
-
-A few words about life. **Working out** is an important part of my everyday life, and I'm trying to find more opportunies of paddling and hiking. I am a supporter of **animal welfare**, and have been donating monthly to related NGOs for 3+ years. I am a fan of video games which is definitely a form of art, and my top 3 favorite games are Zelda, The Witcher 3, Bloodborne/Elden Ring. I used to travel regularly before the pandemic; and I am resuming it.
+I am watching a famous TV series called "She and Her Girls"; and the story is about a school headmaster who helps girls to get education and step out of the rural areas where women are seriously surpressed. The figure has incredible mental toughness, belief, resilience, and confidence. And she is definitely a spiritual idol for me.
