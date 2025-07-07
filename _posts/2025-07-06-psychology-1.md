@@ -15,12 +15,7 @@ emotional and rational capabilities. There is no too black and white OR extremes
 
 We explore the safe attachment type in two directions: the personal and the interpersonal features.
 
-<div class="row">
-    <div class="col-sm">
-        {% include figure.html path="assets/img/blog/1_safe.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
+![Safe attachment type diagram](assets/img/blog/1_safe.jpg)
 
 ### Personal
 
