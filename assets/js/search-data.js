@@ -9,14 +9,21 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "post-a-post-with-plotly-js",
+  },{id: "dropdown-cv",
+              title: "cv",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/assets/pdf/cv_maki.pdf";
+              },
+            },{id: "dropdown-life",
+              title: "life",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/life";
+              },
+            },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
