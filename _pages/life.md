@@ -16,7 +16,7 @@ I am a self-proclaimed amateur watercolor artist.
     </div>
 </div>
 
-**Workout, Sports** 
+**Workout, Sports**
 I enjoy paddleboarding in clean and beautiful water, and I’m getting better at it with practice and enjoyment. This is a picture of my first paddling at Bellevue Small Beach Park.
 
 <div class="row">
@@ -46,6 +46,7 @@ Hiking is my gateway to nature's wonders. One of my most memorable experiences w
 
 **GAMING, PS and Switch**
 My top three modern gaming masterpieces that have left an indelible mark on my gaming journey:
+
 - The Witcher 3: call me Geralt of Rivia
 - The Legend of Zelda: Breath of the Wild: you owe me a lot if you know this game from me, return the favor
 - Bloodborne/Elden Ring: my gosh I can never complete these agains alone

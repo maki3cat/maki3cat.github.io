@@ -28,7 +28,7 @@ latest_posts:
 
 Hi there, this is Maki.
 
-I used to be a E-person, but after years of being a software engineer I some place and some time became a I-person. And recent test shows I am an INTJ. I was ISTP same as Geralt of Rivia last year and that was cool. But I accept radically what I am right now; no self-blames.
+I used to be an E-person, but after years of being a software engineer I some place and some time became an I-person. And recent test shows I am an INTJ. I was ISTP same as Geralt of Rivia last year and that was cool. But I accept radically what I am right now; no self-blames.
 
 **Computer science** is a keyword of life. It pays the bills, has empowered me to build a home and life in Shanghai, and navigates me all the way to the States just to be better at it. Obviously, it means more than a job to me, and I have interest in it. Besides the work stuff, I am also an **animal welfare** supporter. I've started monthly donations years ago; it is hard to find good projects. And I've rescued many stray cats in Shanghai by finding them adopters, and the luckest one stays with my best friend and lives a life probably better than mine. And these are the two beliefs of my life. I hope I can build more value out of my life and for this world in these two pursuits.
 
