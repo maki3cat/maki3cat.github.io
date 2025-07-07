@@ -10,7 +10,7 @@ nav_order: 6
 <div class="row mt-5">
     <div class="col-md-6">
         <h2>Art</h2>
-        <p>I am a self-proclaimed amateur watercolor artist.</p>
+        <p>I am a self-claimed amateur watercolor artist.</p>
 
         <div class="row">
             <div class="col-sm mt-3 mt-md-0">
