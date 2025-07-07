@@ -27,6 +27,7 @@ I enjoy paddleboarding in clean and beautiful water, and I’m getting better at
 
 **CAT Lover**
 Cats just love me.
+And this is my first cat in my life, called Ginger in English and 菊 in Chinese. I got him when I was shopping some fruits and he kept meowing to me and I touched him; the next moment, the shop owner told me she didn't want the cat at all and wanted to give him to me if I wanted it. Then Ginger changed his life for better out of his own choice; it is a wise cat.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
