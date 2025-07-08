@@ -46,19 +46,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-resigned-from-airwallex-where-i-really-learned-a-lot-and-had-a-great-time-i-felt-grateful-moved-to-the-us-for-my-master-s-degree-of-computer-science-in-the-ohio-state-university-sparkles-seedling",
-          title: 'Resigned from Airwallex where I really learned a lot, and had a great...',
-          description: "",
-          section: "News",},{id: "news-currently-working-actively-on-implementing-the-raft-protocal-and-a-database-from-scratch-as-my-first-attempt-for-system-engineering",
-          title: 'Currently working actively on implementing the Raft protocal and a database from scratch...',
-          description: "",
-          section: "News",},{id: "news-maki-passed-the-road-testing-today-ready-to-receive-my-us-driving-license-got-a-lot-of-help-from-friends-in-the-urgent-3-days-practice-in-renting-a-car-practicing-maneuverability-and-road-driving-really-appreciate-these-nice-people-s-help-oh-s-new-state-law-will-stop-foreigners-having-the-test-which-will-be-effective-the-day-after-tomorrow-the-examiner-was-a-very-very-nice-girl-and-i-felt-relaxed-and-supported-instead-of-being-judged-and-checked-out-sitting-by-her-side-and-i-got-full-score-for-maneuverability-thanks-to-heng-s-guidance-and-help",
-          title: 'Maki passed the road testing today! Ready to receive my US driving license!...',
-          description: "",
-          section: "News",},{id: "news-maki-got-her-first-car-a-white-subaru-forrester",
-          title: 'Maki got her first car - a white Subaru Forrester !',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
