@@ -27,7 +27,7 @@ nav_order: 6
             </div>
         </div>
 
-        <h2 class="mt-5">CAT Lover</h2>
+        <h2 class="mt-5">CAT Person</h2>
         <p>Cats just love me.</p>
         <p>And this is my first cat in my life, called Ginger in English and 菊 in Chinese. I got him when I was shopping some fruits and he kept meowing to me and I touched him; the next moment, the shop owner told me she didn't want the cat at all and wanted to give him to me if I wanted it. Then Ginger changed his life for better out of his own choice; it is a wise cat.</p>
 

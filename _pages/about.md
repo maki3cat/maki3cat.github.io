@@ -16,20 +16,20 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi there, this is Maki.
 
-I used to be an E-person, but after years of being a software engineer I some place and some time became an I-person. And recent test shows I am an INTJ. I was ISTP same as Geralt of Rivia last year and that was cool. But I accept radically what I am right now; no self-blames.
+I have 8 years of full-time **backend software engineer** working experience starting from a self-taught starting point (economics major of BS). During the 8 years, I was first in the applications of e-commerce platform, and then started to delve more into infra/system engineering. And I am more interested in tech-driven infra/system engineering right now; I want to be good at it; that is one of the key reasons I resigned from a good position in Shanghai and started my master program in computer science in the Ohio State University. I hope to keep my interest and passion in engineering; and let them support me to walk futher.
 
-**Computer science** is a keyword of life. It pays the bills, has empowered me to build a home and life in Shanghai, and navigates me all the way to the States just to be better at it. Obviously, it means more than a job to me, and I have interest in it. Besides the work stuff, I am also an **animal welfare** supporter. I've started monthly donations years ago; it is hard to find good projects. And I've rescued many stray cats in Shanghai by finding them adopters, and the luckest one stays with my best friend and lives a life probably better than mine. And these are the two beliefs of my life. I hope I can build more value out of my life and for this world in these two pursuits.
+Besides the working stuff, I am also an **animal welfare** supporter. There are a couple of things I have been doing; for example, I keep monthly donations for many years; I've rescued many stray cats in Shanghai by finding them good adopters. But it is still a systematic thing, and though I can make tiny contributions from a person's perspective, the impacts are still not widespread. I hope to make more positive impacts in this direction while still pursuing my career.
 
-I am watching a famous TV series called "She and Her Girls"; and the story is about a school headmaster called Guimei Zhang who helps girls to get education and step out of the rural areas where girls have no access to educaiton and get married at 15. This story makes me feel grateful for my current life, and inspired by Guimei's incredible mental toughness, kindness, belief, resilience, and confidence. Hope girls can build a life we want as well.
+I feel inspired by the TV series "She and Her Girls" when I write this "about me". I relate to Headmaster Zhang and the girls in many ways. I hope to live up to the same kind of spirits and efforts no matter where I am.
