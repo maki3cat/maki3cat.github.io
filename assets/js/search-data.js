@@ -23,13 +23,6 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/life";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog";
-              },
             },{id: "post-psychology-features-of-the-safe-attachment",
         
           title: "Psychology, features of the Safe Attachment",
