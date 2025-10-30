@@ -26,10 +26,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, this is Maki.
+Hello,
 
-I have 8 years of full-time **backend software engineer** working experience starting from a self-taught starting point (economics major of BS). During the 8 years, I was first in the development of e-commerce platforms, and then started to delve more into system engineering. To become better at this new direction, I left my job and good life in Shanghai and started my journey in the Ohio State University for a M.S. degree in computer science. And meanwhile, the huge tides of AI are changing everything in the tech-industry, so I am also spending a lot of time learning AI modeling and systems. For more information, please check my **CV for details**.
+This is Maki. I am recording some key components of my life here.
+
+- The books I read and think highly of, and no books related to my work (software engineering) will be shared in this part. Reading is the most convenient way to talk to very profound people, and get more experiences without getting out of the home.
+- Key Reflections of Life (one page)
+- Special expriences of Life (if any); this part can be diverse.
+- My small researches on the side of the work that pays my bills.
+
+<!-- I have 8 years of full-time **backend software engineer** working experience starting from a self-taught starting point (economics major of BS). During the 8 years, I was first in the development of e-commerce platforms, and then started to delve more into system engineering. To become better at this new direction, I left my job and good life in Shanghai and started my journey in the Ohio State University for a M.S. degree in computer science. And meanwhile, the huge tides of AI are changing everything in the tech-industry, so I am also spending a lot of time learning AI modeling and systems. For more information, please check my **CV for details**.
 
 Besides the working stuff, I am also an **animal welfare** supporter. There are a couple of things I have been doing; for example, I keep monthly donations for many years; I've rescued many stray cats in Shanghai by finding them good adopters. But it is still a social problem than individual effort can change. Learning **psychology** is also part of my life, my current favorite theoretical approach is DBT (dialectical behavior therapy) and I'm also learning a lot from Alison Yu's videos, who is a licensed clinical counselor in Illinois. I really think keep learning psychology is a very healthy habit especially for people who have a lot of challenges in life.
 
-When I wrote this "about me" I was watching a Chinese TV-series called **"She and Her Girls"** by which I feel extremely inspired and warmed. It is actually both light-hearted and moving show with a lot of laughters and tears; and the figures in this show have presented very strong optimitic and proactive attitudes in the face of difficutiles and being the unpriviledged. I feel so lucky not to miss this show. And I hope this show can gain global attention.
+When I wrote this "about me" I was watching a Chinese TV-series called **"She and Her Girls"** by which I feel extremely inspired and warmed. It is actually both light-hearted and moving show with a lot of laughters and tears; and the figures in this show have presented very strong optimitic and proactive attitudes in the face of difficutiles and being the unpriviledged. I feel so lucky not to miss this show. And I hope this show can gain global attention. -->
